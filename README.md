@@ -11,5 +11,5 @@ Go to settings
 
 Github pages 
 
-You will see the link, Click on the link https://vhd12.github.io/Website/Index.html
-Type Index.html as above
+You will see the link, Click on the link 
+Type Index.html as shown here :https://vhd12.github.io/Website/Index.html
